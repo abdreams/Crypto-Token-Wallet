@@ -1,3 +1,14 @@
+# Preview:
+1. Internet Unique ID Identifier
+![image](https://github.com/abdreams/Crypto-Token-Wallet/assets/97502890/e1438ad4-6582-4a98-8a26-9e083486b10b)
+![image](https://github.com/abdreams/Crypto-Token-Wallet/assets/97502890/31d838fa-9818-4534-b512-dd417c06f70c)
+
+2. Wallet
+
+![image](https://github.com/abdreams/Crypto-Token-Wallet/assets/97502890/0427f93d-2c95-40bb-b2f7-72d5175aa3d5)
+
+
+
 # Check your Balance
 
 1. Find out your principal id:
